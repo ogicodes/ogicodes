@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ogi Dimitrijevic</h1>
 <h3 align="center">A passionate Full Stack developer from Toronto, Canada</h3>
 
-- 🔭 I’m currently working on [Regasus](https://github.com/ogicodes/regasus)
+- 🔭 I’m currently working on the [Union-Arena sim](https://github.com/ogicodes/union-arena-sim) a Trading Card Game built with React Three fiber and Typescript
 
 - 🌱 I’m currently learning **TypeScript, ReactNative, Three.js & Prisma**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-v3-e7449ix2f-ogis-projects-e8e79a74.vercel.app/](https://portfolio-v3-e7449ix2f-ogis-projects-e8e79a74.vercel.app/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://portfolio-2025-gray.vercel.app/)
 
 - 📫 How to reach me **ogi.dim@mail.com**
 
